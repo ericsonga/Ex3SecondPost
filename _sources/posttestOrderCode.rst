@@ -41,7 +41,7 @@
 Posttest Order Code Problem
 ----------------------------
 
-Construct the function ``isLevelSeg(numList, first, last)``, which returns ``True`` when a trail segment is stable and ``False`` otherwise.
+Construct the function ``isLevelSeg(numList, first, last)``, which returns ``True`` when a trail segment is level and ``False`` otherwise.
 A trail segment is defined by a first index, a last index, and all indicies between those two (including the first and last indicies). The parameters of the method are the list of elevation values, the first index, and the last index.
 
 The method should return true if the difference
@@ -51,10 +51,10 @@ between the largest value and the smallest value in the trail segment is less th
 Examples
 ============
 
-For the data shown in Figure 1 below, the trail segment firsting at index 7 and lasting at index 9 has values ranging from 70 to 75.  Because the difference between 75 and 70 is less than 10 it is considered stable.  The trail segment firsting at index 7 and lasting at
+For the data shown in Figure 1 below, the trail segment starting at index 7 and ending at index 9 has values ranging from 70 to 75.  Because the difference between 75 and 70 is less than 10 it is considered level.  The trail segment starting at index 7 and ending at
 index 10 has values ranging between 70 and 80. Because the difference between 80 and 70 is
-equal to 10, the trail segment is also considered stable.
-The trail segment firsting at marker 2 and lasting at marker 12 has values ranging between 50 and
+equal to 10, the trail segment is also considered level.
+The trail segment starting at marker 2 and ending at marker 12 has values ranging between 50 and
 120 meters. Because the difference between 120 and 50 is greater than 10, this trail segment is not considered level.
 
 .. figure:: Figures/trailMarkers.png
@@ -67,7 +67,7 @@ The trail segment firsting at marker 2 and lasting at marker 12 has values rangi
 See the table below for a summary of the examples above.  
 
 ======= ===== =======  ====== ================  ===========
-First   Last  Highest  Lowest Difference <= 10   is Stable?
+First   Last  Highest  Lowest Difference <= 10   is Level?
 ======= ===== =======  ====== ================  ===========
    7      9      75      70          5			  True
    7     10      80      70         10            True
@@ -85,7 +85,7 @@ Click on the |start| button below when you are ready to try to order this code. 
    :nofeedback:
    :fullwidth:
    
-   .. parsonsprob:: Posttest_Order_Is_Stable
+   .. parsonsprob:: Posttest2_Order_Is_Level
       :order: 8,0,13,4,10,7,1,5,12,9,2,11,3,6
    
       The code below is mixed up and contains extra blocks that are not needed.  Drag the needed code from the left to the right and put them in order with the correct indention so that the code would work correctly.  

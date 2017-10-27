@@ -24,6 +24,7 @@ SECTION 1: Second Posttest
    posttestFixCode.rst
    posttestOrderCode.rst
    posttestWriteCode.rst
+   thankYou.rst
    
 
    
