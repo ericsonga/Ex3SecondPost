@@ -32,12 +32,12 @@ Posttest Multiple-Choice Questions
 
 Please answer the following multiple-choice questions to the best of your ability.  Click the |start| button when you are ready to begin the exam.  Click on the |next| button below the question to display the next question.  Click on the |finish| button when you have answered all the questions that you can answer.   
 
-.. timed:: Posttest2_mc_timed
+.. timed:: Ex3Posttest2_mc
    :timelimit: 15
    :nofeedback:
    :retake:
        
-   .. mchoice:: post2-1
+   .. mchoice:: Ex3post2-1
       :answer_a: -3
       :answer_b: 4
       :answer_c: 5
@@ -62,7 +62,7 @@ Please answer the following multiple-choice questions to the best of your abilit
                       temp = current
                return temp
                
-   .. mchoice:: post2-2
+   .. mchoice:: Ex3post2-2
       :answer_a: 4
       :answer_b: 3
       :answer_c: 2
@@ -95,7 +95,7 @@ Please answer the following multiple-choice questions to the best of your abilit
            print(count)    
                
           
-   .. mchoice:: post2-3
+   .. mchoice:: Ex3post2-3
       :answer_a: 0
       :answer_b: 1
       :answer_c: 2
@@ -119,7 +119,7 @@ Please answer the following multiple-choice questions to the best of your abilit
                       total = total + 1
               return total
           
-   .. mchoice:: post2-4
+   .. mchoice:: Ex3post2-4
       :answer_a: x = 8 and y = 0
       :answer_b: x = 9 and y = -1
       :answer_c: x = 2 and y = 6
@@ -143,7 +143,7 @@ Please answer the following multiple-choice questions to the best of your abilit
               x = i + y
               y = z - i
               
-   .. mchoice:: post2-5
+   .. mchoice:: Ex3post2-5
       :answer_a: 25.0
       :answer_b: 40.0
       :answer_c: 45.0
