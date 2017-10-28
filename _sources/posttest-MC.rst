@@ -35,6 +35,7 @@ Please answer the following multiple-choice questions to the best of your abilit
 .. timed:: Posttest2_mc_timed
    :timelimit: 15
    :nofeedback:
+   :retake:
        
    .. mchoice:: post2-1
       :answer_a: -3
