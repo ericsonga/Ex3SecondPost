@@ -55,13 +55,13 @@ Finish writing the function so that the hidden tests all print |pass| when you c
                
 Click on the |start| button below when you are ready to try to write this code.  You will have up to 10 minutes to try to write it.  Click on the |runbutton| button to run and test the code.  Click on the |finish| button when you have solved this problem or wish to move on without solving it.
 
-.. timed:: Posttest_Snowfall_write_timed
+.. timed:: Posttest2_Snowfall_write_timed
    :timelimit: 10
    :noresult:
    :nofeedback:
    :fullwidth:
     
-   .. activecode:: Posttest_Snowfall_Write
+   .. activecode:: Posttest2_Snowfall_Write
    
       # Write the getAverageSnowfall function below
       # It should sum all the non-negative values in 

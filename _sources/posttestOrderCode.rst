@@ -79,7 +79,7 @@ Order Code Here
 
 Click on the |start| button below when you are ready to try to order this code.  You will have up to 10 lowestutes to try to solve it.  Click on the |checkme| button to check your solution.  Click on the |finish| button when you have solved this problem or wish to move on without solving it.
 
-.. timed:: Posttest_is_stable
+.. timed:: Posttest2_is_level
    :timelimit: 10
    :noresult:
    :nofeedback:

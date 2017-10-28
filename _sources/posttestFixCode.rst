@@ -56,13 +56,13 @@ Fix the errors so that the hidden tests all print |pass| when you click the |run
                
 Click on the |start| button below when you are ready to try to fix this code.  You will have up to 10 minutes to try to solve it.  Click on the |runbutton| button to run and test the code.  Click on the |finish| button when you have solved this problem or wish to move on without solving it.
 
-.. timed:: Posttest_Average_double_largest
+.. timed:: Posttest2_Average_double_largest
    :timelimit: 10
    :noresult:
    :nofeedback:
    :fullwidth:
     
-   .. activecode:: Posttest_Average_Double_Largest
+   .. activecode:: Posttest2_Average_Double_Largest
    
       def getAverageDoubleLargest(values):
           
