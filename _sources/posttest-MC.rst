@@ -35,7 +35,6 @@ Please answer the following multiple-choice questions to the best of your abilit
 .. timed:: Ex3Posttest2_mc
    :timelimit: 15
    :nofeedback:
-   :retake:
        
    .. mchoice:: Ex3post2-1
       :answer_a: -3
